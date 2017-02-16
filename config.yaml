@@ -1,0 +1,10 @@
+title: "Blog: Lukas Hajdu"
+baseurl: "http://lukashajdu.sk/"
+
+theme: "hugo-black-and-light-theme"
+PygmentsUseClasses: false
+PygmentsCodeFences: true
+PygmentsStyle: "friendly"
+
+languageCode: "sk"
+language: "sk"
