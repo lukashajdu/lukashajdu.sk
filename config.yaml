@@ -1,5 +1,9 @@
-title: "Blog: Lukas Hajdu"
+title: "Lukáš Hajdu"
 baseurl: "http://lukashajdu.sk/"
+
+params:
+  sitename: "Lukáš Hajdu"
+  dateform: "1.2.2006"
 
 theme: "hugo-black-and-light-theme"
 PygmentsUseClasses: false
