@@ -1,8 +1,9 @@
 title: "Lukáš Hajdu"
 baseurl: "http://lukashajdu.sk/"
+paginate: 20
 
 params:
-  sitename: "Lukáš Hajdu"
+  sitename: "blog@lukas_hajdu:/sk"
   dateform: "1.2.2006"
 
 theme: "hugo-black-and-light-theme"
@@ -12,3 +13,14 @@ PygmentsStyle: "friendly"
 
 languageCode: "sk"
 language: "sk"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+menu:
+  main:
+    - name: "Blog"
+      url: "/"
+    - name: "O mne"
+      url: "/o-mne/"
