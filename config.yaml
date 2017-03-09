@@ -4,7 +4,7 @@ paginate: 20
 
 params:
   sitename: "blog@lukas_hajdu:/sk"
-  dateform: "1.2.2006"
+  dateform: "Monday, Jan 2, 2006"
 
 theme: "hugo-black-and-light-theme"
 PygmentsUseClasses: false
