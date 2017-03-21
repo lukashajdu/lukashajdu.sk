@@ -1,6 +1,7 @@
 ---
 title: "Programátor v Londýne"
 date: "2017-03-13T21:20:00Z"
+tags: ["práca", "Londýn"]
 categories: ["Development"]
 ---
 
@@ -9,8 +10,8 @@ vezme hocijakú robotu len z toho dôvodu, že si neverí. Dobrá správa pre
 programátorov je, že v Londýne je obrovský dopyt, či už sa jedná o
 tých skúsenejších, či menej skúsených. Nájsť si prácu je naozaj easy. Ťažšie
 je nájsť si takú prácu, ktorá vás bude baviť. Od svetových IT korporácií,
-cez fin-tech spoločnosti a startupy, až po malé agentúry a neziskovky tu
-nájdete naozaj všetko.
+cez fin-tech spoločnosti a startup-y, až po malé agentúry a neziskovky tu
+nájdete naozaj všetko.<!--more-->
 
 ![Old Street roundabout](/img/old-street.jpg)
 
@@ -29,7 +30,7 @@ kvalifikovaných domácich, ani nie je.
 ### Životopis
 
 Ak nemáte to šťastie, že vás osloví priamo firma na základe vášho profilu
-na Githube, pripravte si životopis. Zabudnite na copy-paste životopisy
+na Github-e, pripravte si životopis. Zabudnite na copy-paste životopisy
 z internetu. Mnoho firiem taktiež požaduje motivačný list. Na základe vášho
 životopisu a skúseností vám budú taktiež rekruiteri dohadzovať pracovné ponuky.
 Nečakajte, že vám s úbohým životopisom dohodia super zamestnávateľa. Mnoho

@@ -5,9 +5,14 @@ tags: ["git", "terminál"]
 categories: ["Development"]
 ---
 
-Ak používate git vo vašom termináli, určite poznáte príkaz na zobrazenie
-histórie repozitára `git log`, ktorý pre zmeny v histórii vygeneruje zoznam
-podobný tomuto:
+Ak ste používateľom verziovacieho systému [Git](https://git-scm.com/) a pre
+interakciu používate terminál, potom určite oceníte vizuálne zobrazenie vetiev bez
+dodatočnej inštalácie programov na to určených (ako napr. [gitk](https://git-scm.com/docs/gitk)).
+V tomto článku sa pozrieme na to, ako vykresliť históriu s údajmi podľa vašich
+želaní pomocou vstavaných príkazov v systéme Git.<!--more-->
+
+Ako používateľ terminálu, určite poznáte príkaz na zobrazenie histórie
+repozitára `git log`, ktorý pre zmeny v histórii vygeneruje zoznam podobný tomuto:
 
 ```
 $ git log
@@ -127,7 +132,9 @@ $ cat ~/.gitconfig
 
 Vytvorený alias môžete nakoniec použiť kdekoľvek pomocou príkazu `git lg`. 
 
-Pre ďalšiu inšpiráciu si môžete prečítať niektoré z odpovedí na Stack Overflow:
+Ako vidíte informácie vo vizuálnom zobrazené môžete nakonfigurovať podľa vašich
+požiadaviek. Pre ďalšiu inšpiráciu si môžete prečítať niektoré z odpovedí na
+Stack Overflow:
 
 * [Visualizing branch topology in git](http://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298)
 * [Pretty git branch graphs](http://stackoverflow.com/questions/1057564/pretty-git-branch-graphs/9074343)

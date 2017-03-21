@@ -5,6 +5,10 @@ tags: ["terminál", ".bash_profile"]
 categories: ["Development"]
 ---
 
+Mnoho z nás používa terminál na dennej báze a preto sa oplatí upraviť jeho nastavenia podľa vlastnej potreby. Primárne
+označenie riadku, to jest reťazec na začiatku každého riadku, nám môže zobraziť užitočné informácie. V tomto článku
+sa pozrieme na jeho základné nastavenia.<!--more-->
+
 Po otvorení vášho terminálu uvidíte pravdepodobne niečo podobné:
 
 ```
