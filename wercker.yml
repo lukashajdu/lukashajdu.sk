@@ -8,6 +8,6 @@ build:
         code: |
             $(git clone https://github.com/davidhampgonsalves/hugo-black-and-light-theme ./themes/hugo-black-and-light-theme)
     - arjen/hugo-build:
-        version: "1.12.0"
+        version: "0.17"
         theme: hugo-black-and-light-theme
         flags: --buildDrafts=true
