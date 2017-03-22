@@ -1,5 +1,6 @@
 title: "Lukáš Hajdu"
 baseurl: "http://lukashajdu.sk/"
+publishDir: web
 paginate: 20
 
 params:

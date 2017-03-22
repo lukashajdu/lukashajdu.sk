@@ -2,12 +2,25 @@ box: debian
 build:
   steps:
     - install-packages:
-        packages: git
+      packages: git
     - script:
-        name: Download theme
-        code: |
-            $(git clone https://github.com/davidhampgonsalves/hugo-black-and-light-theme ./themes/hugo-black-and-light-theme)
+      name: download theme
+      code: |
+        $(git clone https://github.com/davidhampgonsalves/hugo-black-and-light-theme ./themes/hugo-black-and-light-theme)
     - arjen/hugo-build:
-        version: "0.17"
-        theme: hugo-black-and-light-theme
-        flags: --buildDrafts=true
+      version: "0.17"
+      theme: hugo-black-and-light-theme
+      flags: --buildDrafts=true
+deploy:
+  steps:
+    - script:
+      name: refresh package cache
+      code: |
+        apt-get -qq update
+    - install-packages:
+      packages: curl
+    - simpletechs/ftp-deploy-exclude:
+      destination: $FTP_DOMAIN
+      username: $FTP_USERNAME
+      password: $FTP_PASSWORD
+      exclude-file: "/archetypes/ /content/ /data/ /layouts/ /static/ /themes/ /.git/ /.gitignore /config.yaml /wercker.yml"
