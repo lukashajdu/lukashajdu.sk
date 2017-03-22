@@ -2,6 +2,8 @@ title: "Lukáš Hajdu"
 baseurl: "http://lukashajdu.sk/"
 publishDir: web
 paginate: 20
+disqusShortname: "lukashajdu-sk"
+googleAnalytics: "UA-96014989-1"
 
 params:
   sitename: "blog@lukash:/sk"
