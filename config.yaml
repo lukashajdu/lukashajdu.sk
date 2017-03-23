@@ -1,5 +1,5 @@
 title: "Lukáš Hajdu"
-baseurl: "http://lukashajdu.sk/"
+baseurl: "https://lukashajdu.sk/"
 publishDir: web
 paginate: 20
 disqusShortname: "lukashajdu-sk"

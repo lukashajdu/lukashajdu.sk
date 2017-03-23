@@ -85,7 +85,7 @@ na interview a prípadne kompenzácie v plate.
 
 Na stránke som osobne dostal veľmi zaujímavé ponuky, ale pokladám túto formu hľadania
 za veľmi pomalú, keďže firmy sa striedajú v týždenných intervaloch. Ak vás ale hľadanie
-práce nesúri, určite sa uplatí vyskúšať aj túto formu.
+práce nesúri, určite sa oplatí vyskúšať aj túto formu.
 
 ### LinkedIn
 
