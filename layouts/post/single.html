@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<section id=content>
+<section id="content">
     <h1>
         {{ if .Params.heading }}
             {{ .Params.heading }}
@@ -9,7 +9,7 @@
         {{ end }}
     </h1>
 
-    <div id=sub-header>
+    <div id="sub-header">
         {{ .Date.Format (.Site.Params.dateform) }}
         · {{ if lt 1 .WordCount }}
             {{ .WordCount }} slov
@@ -31,7 +31,7 @@
         {{ .Content }}
     </div>
 
-    <div id=links>
+    <div id="links">
         {{ if .PrevInSection }}
             <a class="basic-alignment left" href="{{.PrevInSection.Permalink}}">&laquo;
                 {{.PrevInSection.Title}}
