@@ -1,7 +1,7 @@
 ---
 title: "Zmena primárneho označenia riadku v termináli macOS"
 date: "2017-02-11T10:44:00Z"
-tags: ["terminál", ".bash_profile"]
+tags: ["terminál"]
 categories: ["Development"]
 ---
 
