@@ -10,7 +10,7 @@
     }
 
     body {
-        font-family: 'Open Sans', 'Myriad Pro', Myriad, sans-serif;
+        font-family: Arial, serif;
         font-size: 17px;
         line-height: 160%;
         color: #1d1313;
@@ -77,6 +77,24 @@
     pre code::before,
     pre code::after {
         content: normal;
+    }
+
+    sup {
+        vertical-align: super;
+        font-size: smaller;
+        font-style: italic;
+    }
+
+    sup::before {
+        content: "[";
+    }
+
+    sup::after {
+        content: "]";
+    }
+
+    sup a {
+        text-decoration: none;
     }
 
     .pagination {
