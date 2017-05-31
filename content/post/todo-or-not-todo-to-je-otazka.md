@@ -15,7 +15,7 @@ v komentároch kódu: TODO, FIXME, XXX, OTHER, HACK a podobne. Všetky
 tieto slová patria do "TODO rodiny". V mojej osobnej praxi som sa s inými, ako
 TODO a FIXME nestretol, a keďže som sa nechal pre tento článok inšpirovať 
 výskumom [\[1\]]({{< ref "todo-or-not-todo-to-je-otazka.md#r1" >}}), kde sú
-iné slová v značnej minorite, nebudem sa inými ani zaoberať. 
+iné slová v značnej minorite, nebudem sa inými ani zaoberať.
 
 Ak sa lepšie zamyslíme, potom zistíme, že TODO v skutočnosti naznačuje bod,
 v ktorom bolo urobené rozhodnutie - rozhodnutie odložiť konanie, v skutočnosti
@@ -182,7 +182,7 @@ Zo záverov možno teda usúdiť, že ideálnym kandidátom pre používanie TOD
 v počiatočnom štádiu vývoja, ktoré ešte neboli úplne použité v produkčnom prostredí.
 
 
-## Nevýhody spojené s používaním                                   
+## Nevýhody spojené s používaním
 
 TODO komentáre často dostanú nálepku autora. Tým pádom ostatní programátori
 predpokladajú, že chyby budú odstránené autorom a takéto komentáre väčšinou ignorujú.
