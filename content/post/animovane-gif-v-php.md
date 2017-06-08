@@ -1,7 +1,7 @@
 ---
 title: "Animované GIF v PHP"
 date: "2017-05-26T15:22:00Z"
-tags: ["php", "ImageMagic"]
+tags: ["php", "ImageMagic", "GIF"]
 categories: ["Development"]
 ---
 
@@ -170,3 +170,6 @@ Pre zobrazenie, alebo uloženie animácie je potrebné použiť metódy
 čísle by bol uložený/vykreslený len posledný obrázok z animácie.
 
 Výsledný skript si môžete [stiahnuť tu](https://github.com/lukashajdu/lh-blog-codes/blob/master/animovane-gif-v-php/basic-gif-creation.php).
+
+V [pokračovaní](/post/3d-animovane-gif-v-php/) tohto článku si ukážeme ako možno
+podobným spôsobom vytvoriť jednoduché 3D animácie.
